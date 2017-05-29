@@ -1,5 +1,5 @@
-# soteria pass android client
-Password Manager that uses a client/server architecture to store encrypted passwords remotely
+# Soteria Pass Android Client
+Android mobile application to access stored passwords on the Soteria Pass server
 
 ## Dependencies
 * [gRpc](http://www.grpc.io/)
